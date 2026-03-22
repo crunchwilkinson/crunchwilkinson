@@ -1,6 +1,6 @@
 # Hi there, I'm CrunchWilkinson 👋
 
-### Software Development Student | Full-Stack Builder | AI Enthusiast
+### Software Engineering Student | Full-Stack Dev | AI Enthusiast
 
 I'm a developer based in South Africa, passionate about architecting scalable systems, building practical web applications, and diving into machine learning. I love tackling complex problems—whether that's mapping out UML diagrams for a new system design or deploying containerized apps to the cloud.
 
